@@ -1,7 +1,7 @@
 
 ## Template de Estudo Diário
 
-### Problema do Dia
+### Problema do Dia 31/03/2025
 **Fonte:**  LeetCode  
 🔗 **Link:**  https://leetcode.com/problems/two-sum/  
 **Nível:** Fácil  
@@ -31,3 +31,35 @@ Sim, a primeira abordagem funcionou, quero ver como fazer com uma complexidade t
 - Esforço: 2
 - Clareza do problema: 5
 - Nível de satisfação:  4
+
+---
+
+### Problema do Dia 01/04/2025
+**Fonte:**  LeetCode  
+🔗 **Link:**  https://leetcode.com/problems/valid-parentheses
+**Nível:** Fácil
+
+### Reescrevendo o enunciado com minhas palavras:
+
+Tenho uma String composta somente por caracteres '(', ')', '{', '}', '[' e ']' preciso
+verificar se se é uma String válida se todas as aberturas tiverem o fechamento
+
+### Ideias iniciais / Estratégia:
+- Criar uma Stack se for abertura, faz push e dps verifica com o stack pop se o caracter que fecha é diferente da correspondente abertura
+
+
+### Pseudocódigo (opcional):
+...
+
+### Funcionou? O que aprendi?
+
+Sim funcionou, depois fiz com Array (getLast e removeLast) para ver se tambem dava
+
+
+### O que faria diferente se tentasse de novo amanhã?
+...
+
+### Avaliação (de 1 a 5):
+- Esforço: 3
+- Clareza do problema: 5
+- Nível de satisfação:  3

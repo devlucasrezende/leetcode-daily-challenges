@@ -14,7 +14,7 @@ retornar [2, 3]. É suposto haver sempre uma resposta válida
 
 ### Ideias iniciais / Estratégia:
 -  Percorrer o array duas vezes e fazer um if para ver se a soma do elemento no indice i + j dá o valor do target
--
+-  Criar valor que seja target - nums[i] e criar um mapa para adicionar os valores e indices, se o mapa contiver o valor complement retornar ele e o indice do loop atual
 -
 
 ### Pseudocódigo (opcional):
@@ -30,4 +30,4 @@ Sim, a primeira abordagem funcionou, quero ver como fazer com uma complexidade t
 ### Avaliação (de 1 a 5):
 - Esforço: 2
 - Clareza do problema: 5
-- Nível de satisfação:  
+- Nível de satisfação:  4
