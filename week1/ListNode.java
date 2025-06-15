@@ -1,3 +1,5 @@
+package week1;
+
 public class ListNode {
 
     int val;
@@ -18,6 +20,6 @@ public class ListNode {
 
     @Override
     public String toString() {
-        return "ListNode{" + "val=" + val + ", next=" + next + '}';
+        return "week1.ListNode{" + "val=" + val + ", next=" + next + '}';
     }
 }

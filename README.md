@@ -15,3 +15,17 @@ Este repositório é dedicado ao desafio de resolver **1 problema de lógica por
 | 5 | Palindrome Number | [Acessar](https://leetcode.com/problems/palindrome-number/) | Math / Lógica |
 | 6 | Fizz Buzz | [Acessar](https://leetcode.com/problems/fizz-buzz/) | Simples |
 | 7 | Reverse String | [Acessar](https://leetcode.com/problems/reverse-string/) | Array |
+
+---
+
+## Semana 2 – Arrays, Strings e Hash Maps
+
+| Dia | Problema | Link | Categoria |
+|-----|----------|------|-----------|
+| 8 | Contains Duplicate | [Acessar](https://leetcode.com/problems/contains-duplicate/) | Array / Hash Map |
+| 9 | Roman to Integer | [Acessar](https://leetcode.com/problems/roman-to-integer/) | String / Hash Map |
+| 10 | Longest Common Prefix | [Acessar](https://leetcode.com/problems/longest-common-prefix/) | String |
+| 11 | Remove Duplicates from Sorted Array | [Acessar](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Array / Two Pointers |
+| 12 | Valid Anagram | [Acessar](https://leetcode.com/problems/valid-anagram/) | String / Hash Map |
+| 13 | Binary Search | [Acessar](https://leetcode.com/problems/binary-search/) | Array / Busca |
+| 14 | Implement strStr() | [Acessar](https://leetcode.com/problems/implement-strstr/) | String / Two Pointers |
