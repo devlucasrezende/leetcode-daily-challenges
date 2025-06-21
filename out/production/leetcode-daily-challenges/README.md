@@ -29,3 +29,18 @@ Este repositório é dedicado ao desafio de resolver **1 problema de lógica por
 | 12 | Valid Anagram | [Acessar](https://leetcode.com/problems/valid-anagram/) | String / Hash Map |
 | 13 | Binary Search | [Acessar](https://leetcode.com/problems/binary-search/) | Array / Busca |
 | 14 | Implement strStr() | [Acessar](https://leetcode.com/problems/implement-strstr/) | String / Two Pointers |
+
+
+---
+
+## Semana 3 – Lógica, Estruturas de Dados e Algoritmos Essenciais
+
+| Dia | Problema | Link | Categoria |
+|-----|----------|------|-----------|
+| 15 | Merge Sorted Array | [Acessar](https://leetcode.com/problems/merge-sorted-array/) | Array / Two Pointers |
+| 16 | Plus One | [Acessar](https://leetcode.com/problems/plus-one/) | Array / Math |
+| 17 | Sqrt(x) | [Acessar](https://leetcode.com/problems/sqrtx/) | Math / Binary Search |
+| 18 | Climb Stairs | [Acessar](https://leetcode.com/problems/climb-stairs/) | Dynamic Programming / Recursion |
+| 19 | Remove Element | [Acessar](https://leetcode.com/problems/remove-element/) | Array / Two Pointers |
+| 20 | Single Number | [Acessar](https://leetcode.com/problems/single-number/) | Array / Bit Manipulation / Hash Map |
+| 21 | Reverse Linked List | [Acessar](https://leetcode.com/problems/reverse-linked-list/) | Linked List |
