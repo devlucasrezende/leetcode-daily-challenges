@@ -13,7 +13,7 @@ public class FizzBuzz {
         List<String> arr = new ArrayList<>();
         for (int i = 1; i <= n; i++) {
             if (i % 3 == 0 && i % 5 == 0) {
-                arr.add("week1.FizzBuzz");
+                arr.add("FizzBuzz");
             } else if (i % 3 == 0) {
                 arr.add("Fizz");
             } else if (i % 5 == 0) {
