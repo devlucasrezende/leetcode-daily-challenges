@@ -44,3 +44,17 @@ Este repositório é dedicado ao desafio de resolver **1 problema de lógica por
 | 19 | Remove Element | [Acessar](https://leetcode.com/problems/remove-element/) | Array / Two Pointers |
 | 20 | Single Number | [Acessar](https://leetcode.com/problems/single-number/) | Array / Bit Manipulation / Hash Map |
 | 21 | Reverse Linked List | [Acessar](https://leetcode.com/problems/reverse-linked-list/) | Linked List |
+
+---
+
+## Semana 4 – Reforçando Padrões e Novas Técnicas Básicas
+
+| Dia | Problema | Link | Categoria |
+|-----|----------|------|-----------|
+| 22 | Two Sum II - Input array is sorted | [Acessar](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array / Two Pointers |
+| 23 | Symmetric Tree | [Acessar](https://leetcode.com/problems/symmetric-tree/) | Tree / Recursion |
+| 24 | First Unique Character in a String | [Acessar](https://leetcode.com/problems/first-unique-character-in-a-string/) | String / Hash Map |
+| 25 | Power of Two | [Acessar](https://leetcode.com/problems/power-of-two/) | Math / Bit Manipulation |
+| 26 | Middle of the Linked List | [Acessar](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List / Two Pointers |
+| 27 | Remove Linked List Elements | [Acessar](https://leetcode.com/problems/remove-linked-list-elements/) | Linked List |
+| 28 | Is Subsequence | [Acessar](https://leetcode.com/problems/is-subsequence/) | String / Two Pointers |

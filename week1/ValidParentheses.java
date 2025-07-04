@@ -2,6 +2,7 @@ package week1;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class ValidParentheses {
 
@@ -10,26 +11,26 @@ public class ValidParentheses {
     }
 
     public static boolean isValid(String s) {
-        List<Character> arr = new ArrayList<>();
+        Stack<Character> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch == '(' || ch == '[' || ch == '{') {
-                arr.add(s.charAt(i));
+                stack.add(s.charAt(i));
             } else {
-                if (arr.isEmpty()) {
+                if (stack.isEmpty()) {
                     return false;
                 }
-                Character top = arr.getLast();
+                Character top = stack.peek();
                 if ((ch == ')' && top != '(') ||
                         (ch == ']' && top != '[') ||
                         (ch == '}' && top != '{')) {
                     return false;
                 }
-                arr.removeLast();
+                stack.pop();
             }
 
         }
-        return arr.isEmpty();
+        return stack.isEmpty();
     }
 }
 
