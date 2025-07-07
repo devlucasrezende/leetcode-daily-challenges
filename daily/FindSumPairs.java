@@ -45,7 +45,7 @@ class FindSumPairs {
 
     public int count(int tot) {
         int totalPairs = 0;
-        for (int k : sortedKeys1    ) {
+        for (int k : sortedKeys1) {
             if (k > tot) break;
             Integer c2 = freqNums2.get(tot - k);
             if (c2 != null) {
