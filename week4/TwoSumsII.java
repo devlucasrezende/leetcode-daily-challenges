@@ -5,6 +5,7 @@ import java.util.HashMap;
 
 public class TwoSumsII {
     public static void main(String[] args) {
+        System.out.println(5/2);
         int[] arr = new int[]{2,7,11,15};
         System.out.println(Arrays.toString(twoSum(arr, 9)));
     }
