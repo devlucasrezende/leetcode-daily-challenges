@@ -58,3 +58,17 @@ Este repositório é dedicado ao desafio de resolver **1 problema de lógica por
 | 26 | Middle of the Linked List | [Acessar](https://leetcode.com/problems/middle-of-the-linked-list/) | Linked List / Two Pointers |
 | 27 | Remove Linked List Elements | [Acessar](https://leetcode.com/problems/remove-linked-list-elements/) | Linked List |
 | 28 | Is Subsequence | [Acessar](https://leetcode.com/problems/is-subsequence/) | String / Two Pointers |
+
+---
+
+## Semana 5 – Consolidando Padrões e Lógica Essencial
+
+| Dia | Problema | Link | Categoria |
+|-----|----------|------|-----------|
+| 29 | Move Zeroes | [Acessar](https://leetcode.com/problems/move-zeroes/) | Array / Two Pointers |
+| 30 | Find Pivot Index | [Acessar](https://leetcode.com/problems/find-pivot-index/) | Array / Prefix Sum |
+| 31 | Intersection of Two Arrays | [Acessar](https://leetcode.com/problems/intersection-of-two-arrays/) | Array / Hash Set |
+| 32 | Happy Number | [Acessar](https://leetcode.com/problems/happy-number/) | Math / Hash Set |
+| 33 | Reverse Vowels of a String | [Acessar](https://leetcode.com/problems/reverse-vowels-of-a-string/) | String / Two Pointers |
+| 34 | Contains Duplicate II | [Acessar](https://leetcode.com/problems/contains-duplicate-ii/) | Array / Hash Map |
+| 35 | Count Primes | [Acessar](https://leetcode.com/problems/count-primes/) | Math / Sieve |
