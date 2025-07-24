@@ -11,7 +11,7 @@ public class FindTheK_thCharacterInStringGameI {
         while (word.length() < k) {
             int currentLength = word.length();
             StringBuilder partToAppend = new StringBuilder();
-            for (int i = 0; i < currentLength; i++) {
+            for (int i = 0; i < word.length(); i++) {
                 char currentChar = word.charAt(i);
                 char nextChar = (char) (currentChar + 1);
                 partToAppend.append(nextChar);
