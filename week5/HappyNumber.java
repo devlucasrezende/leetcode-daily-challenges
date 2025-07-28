@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class HappyNumber {
     public static void main(String[] args) {
-        System.out.println(isHappy(2));
+        System.out.println(isHappy(19));
     }
 
     public static boolean isHappy(int n) {
@@ -16,13 +16,10 @@ public class HappyNumber {
             int tempNum = currentNumber;
             while (tempNum > 0) {
                 int digito = tempNum % 10;
-
                 novaSoma += digito * digito;
                 tempNum /= 10;
             }
             currentNumber = novaSoma;
-
-
         }
         return currentNumber == 1;
     }

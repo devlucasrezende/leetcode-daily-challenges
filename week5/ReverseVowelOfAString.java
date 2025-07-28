@@ -11,10 +11,10 @@ public class ReverseVowelOfAString {
         int right = s.length() - 1;
         char[] charArray = s.toCharArray();
         while (left < right) {
-            while (left < right && isVowel(charArray[left])) {
+            while (left < right && isNotVowel(charArray[left])) {
                 left++;
             }
-            while (left < right && isVowel(charArray[right])) {
+            while (left < right && isNotVowel(charArray[right])) {
                 right--;
             }
             if (left < right) {
@@ -24,13 +24,11 @@ public class ReverseVowelOfAString {
             }
             left++;
             right--;
-
         }
-
         return new String(charArray);
     }
 
-    private static boolean isVowel(char a) {
+    private static boolean isNotVowel(char a) {
         a = Character.toLowerCase(a);
         return a != 'a' && a != 'e' && a != 'i' && a != 'o' && a != 'u';
     }
