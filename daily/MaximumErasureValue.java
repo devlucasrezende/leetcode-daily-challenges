@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class MaximumErasureValue {
 
     public static void main(String[] args) {
-        int[] arr = {4,2,4,5,6};
+        int[] arr = {1,2,3,2,2};
         System.out.println(maximumUniqueSubarray(arr));
     }
 
